@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Natalyev
+- 👀 I’m interested in web-programming
+- 🌱 I’m currently learning React
